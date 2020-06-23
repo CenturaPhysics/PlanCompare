@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanCompare", "PlanCompare.csproj", "{234C1035-2BEB-439C-8AC5-221C9821192F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234C1035-2BEB-439C-8AC5-221C9821192F}.Debug|x64.ActiveCfg = Debug|x64
+		{234C1035-2BEB-439C-8AC5-221C9821192F}.Debug|x64.Build.0 = Debug|x64
+		{234C1035-2BEB-439C-8AC5-221C9821192F}.Release|x64.ActiveCfg = Release|x64
+		{234C1035-2BEB-439C-8AC5-221C9821192F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {513915EC-7791-4BCE-9FE9-4BF94537940C}
+	EndGlobalSection
+EndGlobal
